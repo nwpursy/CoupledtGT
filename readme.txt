@@ -1,6 +1,6 @@
 This file (project) is the source code of our proposed model.
 (1) Download the datasets at this url:
-###URL
+### https://drive.google.com/drive/folders/1UNqQEb6h9_DcFEMTInjNsuaA-6HdzqEF?usp=share_link
 (2) unzip preprocessedDataset.zip
 (3) copy the folder "preprocessedDataset/beijing" and all files in this folder, to directory "GTCPredictor/resource/preprocess" in this project "GTCPredictor".
 (4) copy the folder "preprocessedDataset/xi_an" and all files in this folder, to directory "GTCPredictor/resource/preprocess" in this project "GTCPredictor".
